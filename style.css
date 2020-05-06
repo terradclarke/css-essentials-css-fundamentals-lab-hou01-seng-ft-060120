@@ -3,3 +3,24 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  text-align: center;
+}
+img {
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+}
+a {
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  background: yellow;
+}
+.caption {
+  font-size: 50%;
+  text-align: center;
+}
+p {
+  
+}
